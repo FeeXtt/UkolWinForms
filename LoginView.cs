@@ -20,6 +20,7 @@ public partial class LoginView : UserControl
         {
             _dbDriver = new DBDriver(LoginTextBox.Text);
         }
+        // NEFIXNU TO PROSTE
 
         LoginTextBox.Text = "";
     }
