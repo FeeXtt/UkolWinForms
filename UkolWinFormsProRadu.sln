@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UkolWinFormsProRadu", "UkolWinFormsProRadu.csproj", "{D507EE1B-4950-4E81-99B8-1E42EC3E4724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D507EE1B-4950-4E81-99B8-1E42EC3E4724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D507EE1B-4950-4E81-99B8-1E42EC3E4724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D507EE1B-4950-4E81-99B8-1E42EC3E4724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D507EE1B-4950-4E81-99B8-1E42EC3E4724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
